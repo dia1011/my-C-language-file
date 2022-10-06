@@ -1,2 +1,2 @@
 # my-C-language-file
-#first programming i learn in my coding journey 
+#first programming language i learn in my coding journey 
